@@ -1,0 +1,9 @@
+点击了一下
+Publish on Swarm
+
+然后出现了弹框
+Metadata published successfully.
+browser/1_Storage.sol : 
+bzz-raw://4bc331951c25951321cb29abbd689eb3af669530222c6bb2d45ff45334ee83a7
+metadata.json : 
+bzz-raw://5a7c8f372f583e15cdb19c1a5611a8fb3253e935b6c5a59f79d677195759bf4f
