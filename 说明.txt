@@ -21,3 +21,38 @@
 
 以后要看LichCoin,就到
 https://etherscan.io/token/0xee4be89054f5966c52fff09f0a474e72246aa4bc
+
+
+
+另外
+LichCoin是仿照BNB的,也就是Binance Coin(币安币),地址是
+https://etherscan.io/address/0xB8c77482e45F1F44dE1745F52C74426C631bDD52#code
+代码基本上是一样的
+
+
+
+BNB是排名第二的ERC-20的token,
+ERC-20的token比ERC-721的token要多的多,
+
+
+这里可以看到所有的ERC-20的token
+https://etherscan.io/tokens
+
+
+1.USDT 	(Tether)
+2.BNB	(币安)
+3.LEO	(LEO Token)
+4.LINK	(ChainLink Token)
+5.HT	(火币)
+
+
+
+
+
+
+
+
+
+
+
+
